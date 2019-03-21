@@ -1,0 +1,19 @@
+https://developers.google.com/identity/protocols/OAuth2UserAgent
+
+https://console.cloud.google.com
+https://console.developers.google.com/
+
+https://support.google.com/firebase/answer/6399760?hl=ko
+
+https://developers.google.com/identity/sign-in/web/
+https://developers.google.com/calendar/v3/reference/calendarList/list#auth
+
+
+https://support.google.com/firebase/answer/6399760?hl=ko
+( Firebase 프로젝트란?
+Firebase 프로젝트는 Firebase 서비스를 사용하는 Google Cloud Platform 프로젝트입니다. 구체적인 사항은 다음과 같습니다.
+
+프로젝트 결제 및 권한이 콘솔에서 공유됩니다.
+Firebase 콘솔에 표시되는 프로젝트는 Google Cloud Platform 및 Google API 콘솔에도 표시됩니다.
+삭제되는 프로젝트는 모든 콘솔에서 삭제됩니다.
+프로젝트를 통해 플랫폼(Android, iOS, 웹)에서 사용자, 데이터, 분석 자료를 공유하여 어떠한 기기에서든 동일한 사용자 경험을 제공할 수 있습니다. Firebase를 사용하는 모든 앱은 Firebase 프로젝트 하나에 연결되므로 Firebase 콘솔을 통해 앱의 모든 버전을 관리할 수 있습니다. )
